@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'JS API'
 sidebar_position: 3
-description: JS API.
+description: JS API
 ---
 # JS API
 

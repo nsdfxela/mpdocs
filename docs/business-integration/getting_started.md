@@ -1,15 +1,16 @@
 ---
 sidebar_label: 'Getting started'
 sidebar_position: 1
+description: Getting started
 ---
-# [](#header-1)Getting started
+# Getting started
 
-## [](#header-2)Account
+## Account
 
 To start using MetaPerson Creator, simply create an account on [our website](https://accounts.avatarsdk.com) and take advantage of our [free trial](https://avatarsdk.com/pricing-cloud/) of the Pro plan. The trial gives you access to all of our advanced features and allows you to create and customize MetaPerson avatars. 
 
 
-## [](#header-2)Developer credentials
+## Developer credentials
 
 Before you can authorize MetaPerson Creator to integrate it into your website or application, you need to generate developer credentials in your profile. This is a simple process that can be done by visiting the developer credentials page on [our website](https://accounts.avatarsdk.com/developer/#web-api).
 
