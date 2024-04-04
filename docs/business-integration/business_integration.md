@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Business integration'
 sidebar_position: 4
+description: Working with MetaPerson Creator.
 ---
 
 # Working with MetaPerson Creator
