@@ -2,6 +2,7 @@
 sidebar_label: 'Getting started'
 sidebar_position: 1
 description: Getting started
+slug: /getting_started
 ---
 # Getting started
 

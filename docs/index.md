@@ -3,7 +3,7 @@ sidebar_label: 'MetaPerson Creator'
 sidebar_position: 1
 ---
 
-# [](#header-1)What is MetaPerson Creator
+# What is MetaPerson Creator
 
 Introducing [MetaPerson Creator](https://metaperson.avatarsdk.com) – the revolutionary 3D avatar builder that allows you to create your own lifelike avatar using just a selfie! 
 

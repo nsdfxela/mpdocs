@@ -2,6 +2,7 @@
 sidebar_label: 'Website intergration'
 sidebar_position: 2
 description: Website intergration
+slug: /web_integration
 ---
 
 # Website integration
